@@ -1,7 +1,5 @@
 # Trillo - Flexbox & SCSS
 
-![Trillo](https://github.com/DimitarMitev92/Trillo-flexbox-scss/blob/master/resources/img/logo.png)
-
 Welcome to the Trillo - Flexbox & SCSS repository! This repository contains the source code for Trillo, a fictional hotel booking website. The project is built using Flexbox and SCSS, providing a flexible and visually appealing interface for users to explore and book hotels.
 
 ## Table of Contents
